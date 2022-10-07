@@ -1,0 +1,32 @@
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.exe
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.deps.json
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\ref\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\triangle class\bin\Debug\net5.0\triangle class.pdb
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\ref\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.pdb
+C:\Users\USER\OneDrive\Desktop\triangle class\obj\Debug\net5.0\triangle class.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.exe
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.deps.json
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\ref\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\SHAPES\bin\Debug\net5.0\triangle class.pdb
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\ref\triangle class.dll
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.pdb
+C:\Users\USER\OneDrive\Desktop\SHAPES\obj\Debug\net5.0\triangle class.genruntimeconfig.cache
